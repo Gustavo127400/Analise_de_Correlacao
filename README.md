@@ -26,13 +26,13 @@ Investigar a correlação entre o **total da conta** e a **gorjeta**, com segmen
 ## 📝 Questões Abordadas
 
 1. **Existe uma correlação visível entre o total da conta e a gorjeta?**  
-   Exploração inicial para entender a relação entre essas duas variáveis.
-   
+   Há correlação, nos valores médios(entre $10 a $20) ambos grupos se relacionam nos valores deixados na gorjetas.
+      
 2. **Como o gráfico se difere entre os gêneros masculino e feminino?**  
-   Identificação de padrões distintos no comportamento das gorjetas entre os grupos.
+  O gráfico apresenta outliers(valores discrepantes), o grupo masculino tende que, a medida o valor da conta sobe também sobe o valor da gorjeta, tornando grandezas proporcionais
 
 3. **Há uma diferença significativa nas gorjetas deixadas por homens e mulheres?**  
-   Análise para identificar qual gênero tende a deixar gorjetas mais altas, em média.
+   Sim, o grupo masculino tende a dar gorjetas significativas.
 
 ## 🛠️ Como Executar o Projeto
 
