@@ -39,3 +39,4 @@ Investigar a correlação entre o **total da conta** e a **gorjeta**, com segmen
 1. **Clone este repositório:**
    ```bash
    git clone https://github.com/Gustavo127400/Analise_de_Correlacao.git
+![Gráfico de dispersão](https://github.com/user-attachments/assets/6124110e-9139-422b-8104-3314dc9218fd)
